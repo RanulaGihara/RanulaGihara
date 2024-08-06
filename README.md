@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hello! I'm Ranula Gihara, a passionate software engineer with an MSc in Advanced Software Engineering from the University of Westminster and a BSc in Information Technology from the Sri Lanka Institute of Information Technology.
+👋 Hello! I'm Ranula Gihara, a passionate software engineer reading an MSc in Advanced Software Engineering from the University of Westminster and a BSc in Information Technology from the Sri Lanka Institute of Information Technology.
 
 🔧 I enjoy building scalable, efficient, and secure solutions for complex problems. Currently, I'm delving deep into mastering React , Next.js, Node , datadog, stripe and AWS aiming to enhance my overrall development skills.
 
